@@ -1,0 +1,56 @@
+D:/detect_digits/blk_mem_gen_v8_4.v {1 {vlog -work work -vopt D:/detect_digits/blk_mem_gen_v8_4.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module STATE_LOGIC_v8_4
+-- Compiling module beh_vlog_muxf7_v8_4
+-- Compiling module beh_vlog_ff_clr_v8_4
+-- Compiling module beh_vlog_ff_pre_v8_4
+-- Compiling module beh_vlog_ff_ce_clr_v8_4
+-- Compiling module write_netlist_v8_4
+-- Compiling module read_netlist_v8_4
+-- Compiling module blk_mem_axi_write_wrapper_beh_v8_4
+-- Compiling module blk_mem_axi_read_wrapper_beh_v8_4
+-- Compiling module blk_mem_axi_regs_fwd_v8_4
+-- Compiling module blk_mem_gen_v8_4_12_output_stage
+-- Compiling module blk_mem_gen_v8_4_12_softecc_output_reg_stage
+-- Compiling module blk_mem_gen_v8_4_12_mem_module
+-- Compiling module blk_mem_gen_v8_4_12
+
+Top level modules:
+	blk_mem_gen_v8_4_12
+
+} {} {}} D:/detect_digits/dpram_1024w8_1024r8_rego.v {1 {vlog -work work -vopt D:/detect_digits/dpram_1024w8_1024r8_rego.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module dpram_1024w8_1024r8_rego
+
+Top level modules:
+	dpram_1024w8_1024r8_rego
+
+} {} {}} D:/detect_digits/LED.v {1 {vlog -work work -vopt D:/detect_digits/LED.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module LED
+
+Top level modules:
+	LED
+
+} {} {}} D:/detect_digits/tb.v {1 {vlog -work work -vopt D:/detect_digits/tb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tb_LED
+
+Top level modules:
+	tb_LED
+
+} {} {}} D:/detect_digits/mult_sgn_8_8.v {1 {vlog -work work -vopt D:/detect_digits/mult_sgn_8_8.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mult_sgn_8_8
+
+Top level modules:
+	mult_sgn_8_8
+
+} {} {}} D:/detect_digits/rom_8192r8_rego.v {1 {vlog -work work -vopt D:/detect_digits/rom_8192r8_rego.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module rom_8192r8_rego
+
+Top level modules:
+	rom_8192r8_rego
+
+} {} {}}
